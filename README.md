@@ -1,6 +1,5 @@
-# javaOADateConverter
 Microsoft's OLE Automation Date Converter for Java
-# How to convert OADate from Java Date:
+# How to convert Java Date to OADate:
 
         /**
         * Convert Date to Microsoft OLE Automation - OADate type
